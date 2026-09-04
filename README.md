@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aimal-khan"><img src="https://img.shields.io/badge/LinkedIn-aimal--khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aimalkhann/"><img src="https://img.shields.io/badge/LinkedIn-aimal--khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20ML-7B2D8E?style=flat-square" />
   &nbsp;
