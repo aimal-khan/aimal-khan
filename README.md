@@ -79,7 +79,7 @@ I build **data pipelines and ML systems that work in production** — not just i
 
 I'm open to full-time roles, contract work, and collaboration on serious data projects.
 
-- 💼 **LinkedIn:** [linkedin.com/in/aimal-khan](https://linkedin.com/in/aimal-khan)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aimalkhann  
 - 📧 **Email:** <aimal.devv@gmail.com> 
 
 ---
